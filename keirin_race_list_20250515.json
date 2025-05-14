@@ -1,0 +1,132 @@
+[
+  {
+    "venue": "熊本",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "08:30",
+        "closed_at": "08:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158701",
+        "players": [
+          "1田口守",
+          "2矢内良和",
+          "3松田直也",
+          "4齋藤昌弘",
+          "5土田栄二",
+          "6高鍋邦彰",
+          "7武田良太"
+        ]
+      },
+      {
+        "race_number": 2,
+        "start_time": "08:50",
+        "closed_at": "08:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158702",
+        "players": [
+          "1三槻智清",
+          "2伊藤拓人",
+          "3谷元奎心",
+          "4一ノ瀬匠",
+          "5戸伏康夫",
+          "6中井大介",
+          "7湯浅弘光"
+        ]
+      },
+      {
+        "race_number": 3,
+        "start_time": "09:10",
+        "closed_at": "09:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158703",
+        "players": [
+          "1杉山悠也",
+          "2太田黒大心",
+          "3田村真広",
+          "4眞砂英作",
+          "5魚屋周成",
+          "6松田昂己",
+          "7上遠野拓馬"
+        ]
+      },
+      {
+        "race_number": 4,
+        "start_time": "09:30",
+        "closed_at": "09:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158704",
+        "players": [
+          "1高木和仁",
+          "2飯尾主税",
+          "3佐々木孝司",
+          "4浅見隼",
+          "5金子兼久",
+          "6望月嘉人",
+          "7安東宏高"
+        ]
+      },
+      {
+        "race_number": 5,
+        "start_time": "09:50",
+        "closed_at": "09:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158705",
+        "players": [
+          "1森内愛香",
+          "2加藤恵",
+          "3野寺楓",
+          "4中川諒子",
+          "5清水彩那",
+          "6谷元音羽",
+          "7戸田瑞姫"
+        ]
+      },
+      {
+        "race_number": 6,
+        "start_time": "10:10",
+        "closed_at": "10:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158706",
+        "players": [
+          "1高木竜司",
+          "2林昌幸",
+          "3野崎将史",
+          "4栗本武典",
+          "5加倉正義",
+          "6三木健正",
+          "7森安崇之"
+        ]
+      },
+      {
+        "race_number": 7,
+        "start_time": "10:30",
+        "closed_at": "10:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505158707",
+        "players": [
+          "1小林優香",
+          "2梶田舞",
+          "3中野咲",
+          "4坂口楓華",
+          "5長澤彩",
+          "6渡口まりあ",
+          "7松井優佳"
+        ]
+      }
+    ]
+  },
+  {
+    "venue": "高松",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "08:40",
+        "closed_at": "08:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202505157101",
+        "players": [
+          "1川田真也",
+          "2與古田龍門",
+          "3林邦彦",
+          "4米丸俊成",
+          "5関智晴",
+          "6太田貴之",
+          "7五十嵐博一"
+        ]
+      }
+    ]
+  }
+]
