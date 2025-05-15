@@ -1,6 +1,7 @@
 [
   {
     "venue": "川崎",
+    "grade": "FI",
     "races": [
       {
         "race_number": 1,
@@ -16,8 +17,7 @@
           "6高橋健太",
           "7富武大"
         ],
-        "class_category": "Ａ級 予選",
-        "grade": "FI"
+        "class_category": "Ａ級 予選"
       },
       {
         "race_number": 2,
@@ -33,8 +33,7 @@
           "6阿部充宏",
           "7大利航平"
         ],
-        "class_category": "Ａ級 予選",
-        "grade": "FI"
+        "class_category": "Ａ級 予選"
       },
       {
         "race_number": 3,
@@ -50,8 +49,7 @@
           "6瓦田勝也",
           "7石井毅"
         ],
-        "class_category": "Ａ級 予選",
-        "grade": "FI"
+        "class_category": "Ａ級 予選"
       },
       {
         "race_number": 4,
@@ -67,8 +65,7 @@
           "6藤野一良",
           "7山崎航"
         ],
-        "class_category": "Ａ級 予選",
-        "grade": "FI"
+        "class_category": "Ａ級 予選"
       },
       {
         "race_number": 5,
@@ -84,8 +81,7 @@
           "6小田倉勇二",
           "7飯田憲司"
         ],
-        "class_category": "Ａ級 初日特別選抜",
-        "grade": "FI"
+        "class_category": "Ａ級 初日特別選抜"
       },
       {
         "race_number": 6,
@@ -101,8 +97,7 @@
           "6塩崎隼秀",
           "7近藤隆司"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 7,
@@ -118,8 +113,7 @@
           "6伊豆田浩人",
           "7本郷雄三"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 8,
@@ -135,8 +129,7 @@
           "6荒木貴大",
           "7大川龍二"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 9,
@@ -152,8 +145,7 @@
           "6吉本哲郎",
           "7石川裕二"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 10,
@@ -169,8 +161,7 @@
           "6山崎歩夢",
           "7武藤篤弘"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 11,
@@ -186,8 +177,7 @@
           "6三浦雄大",
           "7加藤将武"
         ],
-        "class_category": "Ｓ級 予選",
-        "grade": "FI"
+        "class_category": "Ｓ級 予選"
       },
       {
         "race_number": 12,
@@ -203,13 +193,13 @@
           "6岡本総",
           "7成田和也"
         ],
-        "class_category": "Ｓ級 初日特別選抜",
-        "grade": "FI"
+        "class_category": "Ｓ級 初日特別選抜"
       }
     ]
   },
   {
     "venue": "岐阜",
+    "grade": "FI",
     "races": [
       {
         "race_number": 1,
@@ -225,8 +215,7 @@
           "6佐藤有輝",
           "7川野深"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FI"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 2,
@@ -242,8 +231,7 @@
           "6北浦弘幹",
           "7山本貴章"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FI"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 3,
@@ -259,8 +247,7 @@
           "6吉田彰久",
           "7西本直大"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 4,
@@ -276,8 +263,7 @@
           "6中井護",
           "7鈴木謙太郎"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 5,
@@ -293,8 +279,7 @@
           "6細沼健治",
           "7南儀拓海"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 6,
@@ -309,8 +294,7 @@
           "5水森湧太",
           "6磯島康祐"
         ],
-        "class_category": "Ｓ級 一般",
-        "grade": "FI"
+        "class_category": "Ｓ級 一般"
       },
       {
         "race_number": 7,
@@ -326,8 +310,7 @@
           "6吉川起也",
           "7桶谷明誉"
         ],
-        "class_category": "Ｓ級 一般",
-        "grade": "FI"
+        "class_category": "Ｓ級 一般"
       },
       {
         "race_number": 8,
@@ -343,8 +326,7 @@
           "6中山拓人",
           "7佐藤健太"
         ],
-        "class_category": "Ｓ級 選抜",
-        "grade": "FI"
+        "class_category": "Ｓ級 選抜"
       },
       {
         "race_number": 9,
@@ -360,8 +342,7 @@
           "6連佛康浩",
           "7岩本和也"
         ],
-        "class_category": "Ｓ級 選抜",
-        "grade": "FI"
+        "class_category": "Ｓ級 選抜"
       },
       {
         "race_number": 10,
@@ -377,8 +358,7 @@
           "6庄子信弘",
           "7福島武士"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       },
       {
         "race_number": 11,
@@ -394,8 +374,7 @@
           "6森川大輔",
           "7佐藤博紀"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       },
       {
         "race_number": 12,
@@ -411,13 +390,13 @@
           "6津村洸次郎",
           "7小堺浩二"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       }
     ]
   },
   {
     "venue": "小松島",
+    "grade": "FII",
     "races": [
       {
         "race_number": 1,
@@ -433,8 +412,7 @@
           "6近澤諒香",
           "7佐伯智恵"
         ],
-        "class_category": "Ｌ級 ガールズ予選２",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ予選２"
       },
       {
         "race_number": 2,
@@ -450,8 +428,7 @@
           "6出口倫子",
           "7新井美菜"
         ],
-        "class_category": "Ｌ級 ガールズ予選２",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ予選２"
       },
       {
         "race_number": 3,
@@ -467,8 +444,7 @@
           "6鈴木宏章",
           "7千澤大輔"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FII"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 4,
@@ -484,8 +460,7 @@
           "6亀井雅斗",
           "7加藤健一"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FII"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 5,
@@ -501,8 +476,7 @@
           "6木村勉",
           "7松丸裕紀"
         ],
-        "class_category": "Ａ級 選抜",
-        "grade": "FII"
+        "class_category": "Ａ級 選抜"
       },
       {
         "race_number": 6,
@@ -518,8 +492,7 @@
           "6安谷屋将志",
           "7林成人"
         ],
-        "class_category": "Ａ級 選抜",
-        "grade": "FII"
+        "class_category": "Ａ級 選抜"
       },
       {
         "race_number": 7,
@@ -535,8 +508,7 @@
           "6池部壮太",
           "7好永晃"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 8,
@@ -552,8 +524,7 @@
           "6下沖功児",
           "7竹内優也"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 9,
@@ -569,13 +540,13 @@
           "6坂口卓士",
           "7松澤敬輔"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       }
     ]
   },
   {
     "venue": "函館",
+    "grade": "FII",
     "races": [
       {
         "race_number": 1,
@@ -591,8 +562,7 @@
           "6千原洋晋",
           "7海野敦男"
         ],
-        "class_category": "Ａ級 チャレンジ一般",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ一般"
       },
       {
         "race_number": 2,
@@ -608,8 +578,7 @@
           "6池上孝之",
           "7椿佳友"
         ],
-        "class_category": "Ａ級 チャレンジ一般",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ一般"
       },
       {
         "race_number": 3,
@@ -625,8 +594,7 @@
           "6坂本英一",
           "7佐藤康恭"
         ],
-        "class_category": "Ａ級 チャレンジ準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ準決勝"
       },
       {
         "race_number": 4,
@@ -642,8 +610,7 @@
           "6齋藤和也",
           "7駒井大輔"
         ],
-        "class_category": "Ａ級 チャレンジ準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ準決勝"
       },
       {
         "race_number": 5,
@@ -659,8 +626,7 @@
           "6村本慎吾",
           "7柳澤達也"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 6,
@@ -676,8 +642,7 @@
           "6河合康晴",
           "7本田拓也"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 7,
@@ -693,8 +658,7 @@
           "6坂上忠克",
           "7清水広幸"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 8,
@@ -710,8 +674,7 @@
           "6稲毛知也",
           "7杉浦康一"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 9,
@@ -727,13 +690,13 @@
           "6伊藤大理",
           "7尾崎悠生"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       }
     ]
   },
   {
     "venue": "熊本",
+    "grade": "FII",
     "races": [
       {
         "race_number": 1,
@@ -749,8 +712,7 @@
           "6高鍋邦彰",
           "7武田良太"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 2,
@@ -766,8 +728,7 @@
           "6中井大介",
           "7湯浅弘光"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 3,
@@ -783,8 +744,7 @@
           "6松田昂己",
           "7上遠野拓馬"
         ],
-        "class_category": "Ａ級 特選",
-        "grade": "FII"
+        "class_category": "Ａ級 特選"
       },
       {
         "race_number": 4,
@@ -800,8 +760,7 @@
           "6望月嘉人",
           "7安東宏高"
         ],
-        "class_category": "Ａ級 特選",
-        "grade": "FII"
+        "class_category": "Ａ級 特選"
       },
       {
         "race_number": 5,
@@ -817,8 +776,7 @@
           "6谷元音羽",
           "7戸田瑞姫"
         ],
-        "class_category": "Ｌ級 ガールズ一般",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ一般"
       },
       {
         "race_number": 6,
@@ -834,8 +792,7 @@
           "6三木健正",
           "7森安崇之"
         ],
-        "class_category": "Ａ級 決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 決勝"
       },
       {
         "race_number": 7,
@@ -851,13 +808,13 @@
           "6渡口まりあ",
           "7松井優佳"
         ],
-        "class_category": "Ｌ級 ガールズ決勝",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ決勝"
       }
     ]
   },
   {
     "venue": "高松",
+    "grade": "FII",
     "races": [
       {
         "race_number": 1,
@@ -873,8 +830,7 @@
           "6太田貴之",
           "7五十嵐博一"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 2,
@@ -890,8 +846,7 @@
           "6樋口奨平",
           "7長田彰人"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 3,
@@ -907,8 +862,7 @@
           "6秋永共之",
           "7志村達也"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 4,
@@ -924,8 +878,7 @@
           "6脇田良雄",
           "7井上将志"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 5,
@@ -941,8 +894,7 @@
           "6郷坪和博",
           "7田中孝法"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 6,
@@ -958,8 +910,7 @@
           "6田典幸",
           "7船山真生"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       },
       {
         "race_number": 7,
@@ -975,13 +926,13 @@
           "6中嶋樹",
           "7明星晴道"
         ],
-        "class_category": "Ａ級 チャレンジ予選",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ予選"
       }
     ]
   },
   {
     "venue": "大垣",
+    "grade": "FII",
     "races": [
       {
         "race_number": 1,
@@ -995,8 +946,7 @@
           "4小林高志",
           "5菊池崇訓"
         ],
-        "class_category": "Ａ級 チャレンジ一般",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ一般"
       },
       {
         "race_number": 2,
@@ -1011,8 +961,7 @@
           "5木村健司",
           "6坂本敏也"
         ],
-        "class_category": "Ａ級 チャレンジ一般",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ一般"
       },
       {
         "race_number": 3,
@@ -1028,8 +977,7 @@
           "6菅藤智",
           "7吉竹雄城"
         ],
-        "class_category": "Ａ級 チャレンジ準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ準決勝"
       },
       {
         "race_number": 4,
@@ -1045,8 +993,7 @@
           "6石川一浩",
           "7岡部陸斗"
         ],
-        "class_category": "Ａ級 チャレンジ準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 チャレンジ準決勝"
       },
       {
         "race_number": 5,
@@ -1061,8 +1008,7 @@
           "5太田美穂",
           "6伊藤のぞみ"
         ],
-        "class_category": "Ｌ級 ガールズ予選２",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ予選２"
       },
       {
         "race_number": 6,
@@ -1078,8 +1024,7 @@
           "6児玉碧衣",
           "7小林真矢香"
         ],
-        "class_category": "Ｌ級 ガールズ予選２",
-        "grade": "FII"
+        "class_category": "Ｌ級 ガールズ予選２"
       },
       {
         "race_number": 7,
@@ -1094,8 +1039,7 @@
           "5志水祐彦",
           "6坂木田雄介"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 8,
@@ -1111,8 +1055,7 @@
           "6早川成矢",
           "7安藤宜明"
         ],
-        "class_category": "Ａ級 特一般",
-        "grade": "FII"
+        "class_category": "Ａ級 特一般"
       },
       {
         "race_number": 9,
@@ -1128,8 +1071,7 @@
           "6表大暁",
           "7中島将尊"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 10,
@@ -1145,8 +1087,7 @@
           "6宮澤晃",
           "7橋本智昭"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 11,
@@ -1162,13 +1103,13 @@
           "6有賀高士",
           "7日当泰之"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FII"
+        "class_category": "Ａ級 準決勝"
       }
     ]
   },
   {
     "venue": "福井",
+    "grade": "FI",
     "races": [
       {
         "race_number": 1,
@@ -1184,8 +1125,7 @@
           "6橋本大祐",
           "7芳野匠"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FI"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 2,
@@ -1201,8 +1141,7 @@
           "6赤松秀展",
           "7斯波雅貴"
         ],
-        "class_category": "Ａ級 一般",
-        "grade": "FI"
+        "class_category": "Ａ級 一般"
       },
       {
         "race_number": 3,
@@ -1218,8 +1157,7 @@
           "6渡邉高志",
           "7神尾敬冬"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 4,
@@ -1235,8 +1173,7 @@
           "6栗田雄矢",
           "7金子浩貴"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 5,
@@ -1252,8 +1189,7 @@
           "6塩川真一郎",
           "7川島勝"
         ],
-        "class_category": "Ａ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ａ級 準決勝"
       },
       {
         "race_number": 6,
@@ -1268,8 +1204,7 @@
           "5坂上樹大",
           "6吉田裕全"
         ],
-        "class_category": "Ｓ級 一般",
-        "grade": "FI"
+        "class_category": "Ｓ級 一般"
       },
       {
         "race_number": 7,
@@ -1285,8 +1220,7 @@
           "6宮下貴之",
           "7長屋秀明"
         ],
-        "class_category": "Ｓ級 一般",
-        "grade": "FI"
+        "class_category": "Ｓ級 一般"
       },
       {
         "race_number": 8,
@@ -1302,8 +1236,7 @@
           "6高間悠平",
           "7鈴木輝大"
         ],
-        "class_category": "Ｓ級 選抜",
-        "grade": "FI"
+        "class_category": "Ｓ級 選抜"
       },
       {
         "race_number": 9,
@@ -1319,8 +1252,7 @@
           "6星野辰也",
           "7児玉慎一郎"
         ],
-        "class_category": "Ｓ級 選抜",
-        "grade": "FI"
+        "class_category": "Ｓ級 選抜"
       },
       {
         "race_number": 10,
@@ -1336,8 +1268,7 @@
           "6北野武史",
           "7山本勝利"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       },
       {
         "race_number": 11,
@@ -1353,8 +1284,7 @@
           "6外田心斗",
           "7佐々木龍"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       },
       {
         "race_number": 12,
@@ -1370,13 +1300,13 @@
           "6渡辺十夢",
           "7青柳靖起"
         ],
-        "class_category": "Ｓ級 準決勝",
-        "grade": "FI"
+        "class_category": "Ｓ級 準決勝"
       }
     ]
   },
   {
     "venue": "宇都宮",
+    "grade": "GIII",
     "races": [
       {
         "race_number": 1,
@@ -1394,8 +1324,7 @@
           "8後藤悠",
           "9黒田淳"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 2,
@@ -1413,8 +1342,7 @@
           "8三好恵一郎",
           "9木村隆弘"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 3,
@@ -1432,8 +1360,7 @@
           "8望月永悟",
           "9伏見俊昭"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 4,
@@ -1451,8 +1378,7 @@
           "8山本奨",
           "9関貴之"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 5,
@@ -1470,8 +1396,7 @@
           "8小嶋敬二",
           "9阪本和也"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 6,
@@ -1489,8 +1414,7 @@
           "8安部達也",
           "9竹山陵太"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 7,
@@ -1508,8 +1432,7 @@
           "8小林則之",
           "9武田豊樹"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 8,
@@ -1527,8 +1450,7 @@
           "8松本憲斗",
           "9格清洋介"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 9,
@@ -1546,8 +1468,7 @@
           "8清水一幸",
           "9真船圭一郎"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 10,
@@ -1565,8 +1486,7 @@
           "8城幸弘",
           "9西岡正一"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 11,
@@ -1584,8 +1504,7 @@
           "8和泉尚吾",
           "9池野健太"
         ],
-        "class_category": "Ｓ級 一次予選",
-        "grade": "GIII"
+        "class_category": "Ｓ級 一次予選"
       },
       {
         "race_number": 12,
@@ -1603,8 +1522,7 @@
           "8岩津裕介",
           "9坂井洋"
         ],
-        "class_category": "Ｓ級 初日特別選抜",
-        "grade": "GIII"
+        "class_category": "Ｓ級 初日特別選抜"
       }
     ]
   }
