@@ -1,0 +1,6 @@
+.DS_Store
+._*
+*_*.sb-*
+auto_upload_keirin_data.sh
+clean_old_keirin_data.sh
+convert_keirin_csv_to_json.py
