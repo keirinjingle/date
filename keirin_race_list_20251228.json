@@ -1,0 +1,1298 @@
+[
+  {
+    "venue": "大宮",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "08:50",
+        "closed_at": "08:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282501",
+        "players": [
+          "1鈴木広",
+          "2舟山佑",
+          "3坂本拓",
+          "4柏木伸",
+          "5柳",
+          "充",
+          "6鈴木宏",
+          "7江本博"
+        ],
+        "class_category": "Ａ級 一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "09:10",
+        "closed_at": "09:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282502",
+        "players": [
+          "1下岡将",
+          "2北野良",
+          "3亀谷隆",
+          "4臼井昌",
+          "5土屋仁",
+          "6田村純",
+          "7増田利"
+        ],
+        "class_category": "Ａ級 一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "09:30",
+        "closed_at": "09:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282503",
+        "players": [
+          "1相笠翔",
+          "2前田拓",
+          "3根藤浩",
+          "4榎本光",
+          "5高峰賢",
+          "6細沼健",
+          "7一ノ瀬"
+        ],
+        "class_category": "Ａ級 選抜"
+      },
+      {
+        "race_number": 4,
+        "start_time": "09:50",
+        "closed_at": "09:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282504",
+        "players": [
+          "1安藤直",
+          "2中村淳",
+          "3山田祐",
+          "4朝日勇",
+          "5小室貴",
+          "6服部竜",
+          "7山本恵"
+        ],
+        "class_category": "Ａ級 選抜"
+      },
+      {
+        "race_number": 5,
+        "start_time": "10:10",
+        "closed_at": "10:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282505",
+        "players": [
+          "1藤岡徹",
+          "2寺沼伊",
+          "3石橋慎",
+          "4舛井幹",
+          "5藤田竜",
+          "6小川達",
+          "7小笠原"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 6,
+        "start_time": "10:30",
+        "closed_at": "10:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282506",
+        "players": [
+          "1福田拓",
+          "2加藤圭",
+          "3大崎和",
+          "4小林令",
+          "5添田龍",
+          "6荻野哲",
+          "7佐藤雅"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 7,
+        "start_time": "10:50",
+        "closed_at": "10:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282507",
+        "players": [
+          "1原田亮",
+          "2坂本匡",
+          "3小谷田",
+          "4佐山俊",
+          "5山崎司",
+          "6阿部英",
+          "7大矢将"
+        ],
+        "class_category": "Ａ級 準決勝"
+      }
+    ]
+  },
+  {
+    "venue": "武雄",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "09:00",
+        "closed_at": "08:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288401",
+        "players": [
+          "1ラモス",
+          "2岡崎克",
+          "3上野幸",
+          "4曽我部",
+          "5瀧本匡",
+          "6澤亀浩"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "09:20",
+        "closed_at": "09:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288402",
+        "players": [
+          "1川本恵",
+          "2大林亮",
+          "3土居佑",
+          "4布居翼",
+          "5大山泰",
+          "6中山敬"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "09:40",
+        "closed_at": "09:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288403",
+        "players": [
+          "1野見泰",
+          "2下田和",
+          "3永田隼",
+          "4阿部弘",
+          "5仙石淳",
+          "6尾崎勝"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 4,
+        "start_time": "10:00",
+        "closed_at": "09:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288404",
+        "players": [
+          "1友永龍",
+          "2後田康",
+          "3藤原夏",
+          "4光岡義",
+          "5山本康",
+          "6三登誉",
+          "7倉岡慎"
+        ],
+        "class_category": "Ａ級 チャレンジ選抜"
+      },
+      {
+        "race_number": 5,
+        "start_time": "10:20",
+        "closed_at": "10:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288405",
+        "players": [
+          "1林洋二",
+          "2楠本政",
+          "3高嶋一",
+          "4川西康",
+          "5安部龍",
+          "6服部正",
+          "7原清孝"
+        ],
+        "class_category": "Ａ級 チャレンジ選抜"
+      },
+      {
+        "race_number": 6,
+        "start_time": "10:40",
+        "closed_at": "10:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288406",
+        "players": [
+          "1富永昌",
+          "2安本昇",
+          "3佐々木",
+          "4加藤正",
+          "5村瀬大",
+          "6竹村達",
+          "7山口留"
+        ],
+        "class_category": "Ａ級 チャレンジ選抜"
+      },
+      {
+        "race_number": 7,
+        "start_time": "11:00",
+        "closed_at": "10:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512288407",
+        "players": [
+          "1高橋紀",
+          "2山崎光",
+          "3宮崎一",
+          "4片折勇",
+          "5大川栄",
+          "6荒木真",
+          "7加藤昌"
+        ],
+        "class_category": "Ａ級 チャレンジ決勝"
+      }
+    ]
+  },
+  {
+    "venue": "平塚",
+    "grade": "GP",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "10:45",
+        "closed_at": "10:40",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283501",
+        "players": [
+          "1角令央",
+          "2新山将",
+          "3後藤大",
+          "4岡田泰",
+          "5鈴木陸",
+          "6長井優",
+          "7小橋秀",
+          "8佐々木",
+          "9木村佑"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "11:15",
+        "closed_at": "11:10",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283502",
+        "players": [
+          "1佐藤一",
+          "2鈴木浩",
+          "3林慶次",
+          "4藤原憲",
+          "5久島尚",
+          "6田口勇",
+          "7磯田旭",
+          "8近藤隆",
+          "9橋本壮"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "11:45",
+        "closed_at": "11:40",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283503",
+        "players": [
+          "1山本直",
+          "2近藤保",
+          "3城幸弘",
+          "4中村浩",
+          "5武田亮",
+          "6上吹越",
+          "7根田空",
+          "8浅見隼",
+          "9月森亮"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "12:19",
+        "closed_at": "12:14",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283504",
+        "players": [
+          "1尾方祐",
+          "2晝田宗",
+          "3桐山敬",
+          "4竹山陵",
+          "5西村光",
+          "6比佐宝",
+          "7三宅達",
+          "8上田裕",
+          "9格清洋"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "12:53",
+        "closed_at": "12:48",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283505",
+        "players": [
+          "1松田治",
+          "2橋本瑠",
+          "3小原丈",
+          "4今野有",
+          "5石川裕",
+          "6蒋野翔",
+          "7内藤宣",
+          "8小林圭",
+          "9谷和也"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 6,
+        "start_time": "13:27",
+        "closed_at": "13:22",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283506",
+        "players": [
+          "1佐藤壮",
+          "2小川三",
+          "3関貴之",
+          "4佐藤真",
+          "5渡邉雅",
+          "6福島栄",
+          "7堀江省",
+          "8小埜正",
+          "9大崎飛"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 7,
+        "start_time": "14:01",
+        "closed_at": "13:56",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283507",
+        "players": [
+          "1雨谷一",
+          "2吉田敏",
+          "3兼本将",
+          "4連佛康",
+          "5吉田有",
+          "6長田祐",
+          "7林敬宏",
+          "8曽我圭",
+          "9藤田昌"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "14:36",
+        "closed_at": "14:31",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283508",
+        "players": [
+          "1市田龍",
+          "2佐藤博",
+          "3松本秀",
+          "4安倍大",
+          "5中本匠",
+          "6上遠野",
+          "7神田紘",
+          "8原真司",
+          "9宿口潤"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "15:11",
+        "closed_at": "15:06",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283509",
+        "players": [
+          "1池田良",
+          "2小原佑",
+          "3中西大",
+          "4鈴木謙",
+          "5佐藤愼",
+          "6小林稜",
+          "7鷲田幸",
+          "8村上竜",
+          "9阿部力"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 10,
+        "start_time": "15:49",
+        "closed_at": "15:44",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283510",
+        "players": [
+          "1中野慎",
+          "2松谷秀",
+          "3山口拳",
+          "4森田優",
+          "5守澤太",
+          "6小川勇",
+          "7吉澤純",
+          "8石原颯",
+          "9松井宏"
+        ],
+        "class_category": "Ｓ級 初日特別選抜"
+      },
+      {
+        "race_number": 11,
+        "start_time": "16:30",
+        "closed_at": "16:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512283511",
+        "players": [
+          "1西田優",
+          "2篠田幸",
+          "3中石湊",
+          "4松崎広",
+          "5阿部英",
+          "6栗山和",
+          "7黒瀬浩",
+          "8梶原海",
+          "9森田一"
+        ],
+        "class_category": "ＳＡ混合 ヤンググランプリ"
+      }
+    ]
+  },
+  {
+    "venue": "立川",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "10:55",
+        "closed_at": "10:50",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282801",
+        "players": [
+          "1関戸努",
+          "2川村昭",
+          "3大本隆",
+          "4菊池崇",
+          "5泉文人",
+          "6菱沼元",
+          "7佐藤有"
+        ],
+        "class_category": "Ａ級 チャレンジ予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "11:22",
+        "closed_at": "11:17",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282802",
+        "players": [
+          "1里見恒",
+          "2平山優",
+          "3内海雅",
+          "4大越啓",
+          "5石川恭",
+          "6村松俊",
+          "7山崎明"
+        ],
+        "class_category": "Ａ級 チャレンジ予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "11:50",
+        "closed_at": "11:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282803",
+        "players": [
+          "1牧田賢",
+          "2村本慎",
+          "3永井隆",
+          "4三澤勝",
+          "5鈴木規",
+          "6鈴木龍",
+          "7大塚城"
+        ],
+        "class_category": "Ａ級 チャレンジ予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "12:13",
+        "closed_at": "12:08",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282804",
+        "players": [
+          "1伊藤之",
+          "2須々田",
+          "3國井裕",
+          "4秋山太",
+          "5河合康",
+          "6高橋海",
+          "7大澤裕"
+        ],
+        "class_category": "Ａ級 チャレンジ予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "12:37",
+        "closed_at": "12:32",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282805",
+        "players": [
+          "1高橋朋",
+          "2山口優",
+          "3荒牧聖",
+          "4田中ま",
+          "5千葉捺",
+          "6岡本二",
+          "7大和久"
+        ],
+        "class_category": "Ｌ級 ガールズ予選１"
+      },
+      {
+        "race_number": 6,
+        "start_time": "13:12",
+        "closed_at": "13:07",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282806",
+        "players": [
+          "1浦部郁",
+          "2神戸暖",
+          "3永塚祐",
+          "4中村由",
+          "5牧田咲",
+          "6加瀬加",
+          "7鈴木奈"
+        ],
+        "class_category": "Ｌ級 ガールズ予選１"
+      },
+      {
+        "race_number": 7,
+        "start_time": "13:47",
+        "closed_at": "13:42",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282807",
+        "players": [
+          "1鈴木誠",
+          "2齋藤一",
+          "3須藤誠",
+          "4中西司",
+          "5金子周",
+          "6望月嘉",
+          "7荻原寿"
+        ],
+        "class_category": "Ａ級 特予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "14:22",
+        "closed_at": "14:17",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282808",
+        "players": [
+          "1宮下貴",
+          "2吉原友",
+          "3白石大",
+          "4樋口開",
+          "5緑川修",
+          "6千澤大",
+          "7武田憲"
+        ],
+        "class_category": "Ａ級 特予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "14:57",
+        "closed_at": "14:52",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282809",
+        "players": [
+          "1川越宏",
+          "2日当泰",
+          "3大竹哲",
+          "4鎌田聡",
+          "5長沼謙",
+          "6三浦大",
+          "7高谷雅"
+        ],
+        "class_category": "Ａ級 特予選"
+      },
+      {
+        "race_number": 10,
+        "start_time": "15:32",
+        "closed_at": "15:27",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282810",
+        "players": [
+          "1柴田功",
+          "2黒田篤",
+          "3佐々木",
+          "4高橋健",
+          "5杉山悠",
+          "6佐藤譲",
+          "7佐々木"
+        ],
+        "class_category": "Ａ級 特予選"
+      },
+      {
+        "race_number": 11,
+        "start_time": "16:06",
+        "closed_at": "16:01",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282811",
+        "players": [
+          "1望月湧",
+          "2阿部大",
+          "3立花昌",
+          "4小池千",
+          "5斉藤樂",
+          "6小野裕",
+          "7松澤敬"
+        ],
+        "class_category": "Ａ級 初日特別選抜"
+      }
+    ]
+  },
+  {
+    "venue": "玉野",
+    "grade": "FI",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "15:40",
+        "closed_at": "15:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286101",
+        "players": [
+          "1金子貴",
+          "2葛西雄",
+          "3原井剣",
+          "4高野信",
+          "5宇根秀",
+          "6秋山貴",
+          "7小原将"
+        ],
+        "class_category": "Ａ級 予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "16:13",
+        "closed_at": "16:08",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286102",
+        "players": [
+          "1石坂永",
+          "2鳥越靖",
+          "3越智展",
+          "4大庭正",
+          "5藤原俊",
+          "6竹澤雅",
+          "7橋本勝"
+        ],
+        "class_category": "Ａ級 予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "16:42",
+        "closed_at": "16:37",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286103",
+        "players": [
+          "1木村浩",
+          "2川野深",
+          "3四宮哲",
+          "4近藤範",
+          "5布居大",
+          "6坂本智",
+          "7楢原由"
+        ],
+        "class_category": "Ａ級 予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "17:06",
+        "closed_at": "17:01",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286104",
+        "players": [
+          "1伊原弘",
+          "2石田洋",
+          "3松本卓",
+          "4吉岡篤",
+          "5市本隆",
+          "6上杉有",
+          "7谷口幸"
+        ],
+        "class_category": "Ａ級 予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "17:30",
+        "closed_at": "17:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286105",
+        "players": [
+          "1津村洸",
+          "2清水剛",
+          "3小林信",
+          "4山本巨",
+          "5竹内雄",
+          "6山崎翼",
+          "7佐山寛"
+        ],
+        "class_category": "Ａ級 初日特別選抜"
+      },
+      {
+        "race_number": 6,
+        "start_time": "17:54",
+        "closed_at": "17:49",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286106",
+        "players": [
+          "1山口貴",
+          "2佐竹和",
+          "3清水一",
+          "4阪本和",
+          "5稲毛健",
+          "6吉田智",
+          "7平尾一"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 7,
+        "start_time": "18:18",
+        "closed_at": "18:13",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286107",
+        "players": [
+          "1鈴木伸",
+          "2掛水泰",
+          "3竹内翼",
+          "4徳田匠",
+          "5室井蓮",
+          "6竹田和",
+          "7大屋健"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "18:43",
+        "closed_at": "18:38",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286108",
+        "players": [
+          "1才迫開",
+          "2青柳靖",
+          "3山口泰",
+          "4高橋和",
+          "5黒田淳",
+          "6溪飛雄",
+          "7吉本卓"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "19:09",
+        "closed_at": "19:04",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286109",
+        "players": [
+          "1伊藤信",
+          "2濱田浩",
+          "3本郷雄",
+          "4篠原忍",
+          "5川口雄",
+          "6松岡孝",
+          "7水谷好"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 10,
+        "start_time": "19:35",
+        "closed_at": "19:30",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286110",
+        "players": [
+          "1久米康",
+          "2中村圭",
+          "3吉田健",
+          "4松本秀",
+          "5山本奨",
+          "6内山慧",
+          "7伊藤勝"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 11,
+        "start_time": "20:02",
+        "closed_at": "19:57",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286111",
+        "players": [
+          "1稲吉悠",
+          "2福島武",
+          "3谷内健",
+          "4近藤翔",
+          "5松村友",
+          "6堀川敬",
+          "7室井竜"
+        ],
+        "class_category": "Ｓ級 予選"
+      },
+      {
+        "race_number": 12,
+        "start_time": "20:30",
+        "closed_at": "20:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512286112",
+        "players": [
+          "1川口聖",
+          "2岩津裕",
+          "3林大悟",
+          "4阿竹智",
+          "5塚本大",
+          "6中井太",
+          "7太田海"
+        ],
+        "class_category": "Ｓ級 初日特別選抜"
+      }
+    ]
+  },
+  {
+    "venue": "岐阜",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "15:58",
+        "closed_at": "15:53",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284301",
+        "players": [
+          "1藤田晃",
+          "2黒木誠",
+          "3赤石聡",
+          "4樋口有",
+          "5鈴木康",
+          "6南",
+          "蓮"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "16:20",
+        "closed_at": "16:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284302",
+        "players": [
+          "1黒田充",
+          "2藤田和",
+          "3桜井大",
+          "4藤本龍",
+          "5薮田貴",
+          "6櫻井利"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "16:54",
+        "closed_at": "16:49",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284303",
+        "players": [
+          "1土生智",
+          "2塚本貴",
+          "3水谷亮",
+          "4岡崎和",
+          "5渡会啓",
+          "6堀内昇",
+          "7辻田祥"
+        ],
+        "class_category": "Ａ級 チャレンジ準決勝"
+      },
+      {
+        "race_number": 4,
+        "start_time": "17:18",
+        "closed_at": "17:13",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284304",
+        "players": [
+          "1板橋慎",
+          "2吉村文",
+          "3櫻井宏",
+          "4馬越裕",
+          "5北村篤",
+          "6長谷川",
+          "7真木寛"
+        ],
+        "class_category": "Ａ級 チャレンジ準決勝"
+      },
+      {
+        "race_number": 5,
+        "start_time": "17:42",
+        "closed_at": "17:37",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284305",
+        "players": [
+          "1片岡美",
+          "2小林諒",
+          "3塩田日",
+          "4飯田風",
+          "5清水彩",
+          "6村田奈",
+          "7吉村早"
+        ],
+        "class_category": "Ｌ級 ガールズ予選２"
+      },
+      {
+        "race_number": 6,
+        "start_time": "18:06",
+        "closed_at": "18:01",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284306",
+        "players": [
+          "1太田美",
+          "2新井美",
+          "3宇野紅",
+          "4北岡マ",
+          "5今西瑠",
+          "6田中千",
+          "7三宅玲"
+        ],
+        "class_category": "Ｌ級 ガールズ予選２"
+      },
+      {
+        "race_number": 7,
+        "start_time": "18:30",
+        "closed_at": "18:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284307",
+        "players": [
+          "1櫻井丈",
+          "2乾庄平",
+          "3樋口絢",
+          "4吉田昌",
+          "5南大輔",
+          "6久保将",
+          "7吉田元"
+        ],
+        "class_category": "Ａ級 特一般"
+      },
+      {
+        "race_number": 8,
+        "start_time": "18:56",
+        "closed_at": "18:51",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284308",
+        "players": [
+          "1冨岡健",
+          "2安藤宜",
+          "3小出慎",
+          "4柴田竜",
+          "5西谷岳",
+          "6伊藤一",
+          "7山本和"
+        ],
+        "class_category": "Ａ級 特一般"
+      },
+      {
+        "race_number": 9,
+        "start_time": "19:22",
+        "closed_at": "19:17",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284309",
+        "players": [
+          "1西岡正",
+          "2中川貴",
+          "3花田将",
+          "4丸山啓",
+          "5吉川希",
+          "6佐藤謙",
+          "7西岡利"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 10,
+        "start_time": "19:48",
+        "closed_at": "19:43",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284310",
+        "players": [
+          "1橋本英",
+          "2今井希",
+          "3玉手翔",
+          "4有賀高",
+          "5内田英",
+          "6山田隼",
+          "7吉堂将"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 11,
+        "start_time": "20:16",
+        "closed_at": "20:11",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284311",
+        "players": [
+          "1荒川仁",
+          "2笠松将",
+          "3丹波孝",
+          "4佐藤龍",
+          "5片山弘",
+          "6和田禎",
+          "7中井勇"
+        ],
+        "class_category": "Ａ級 準決勝"
+      }
+    ]
+  },
+  {
+    "venue": "前橋",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "20:40",
+        "closed_at": "20:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282201",
+        "players": [
+          "1松本詩",
+          "2西脇美",
+          "3半田水",
+          "4梶田舞",
+          "5長澤彩",
+          "6佐藤友"
+        ],
+        "class_category": "Ｌ級 ガールズ予選２"
+      },
+      {
+        "race_number": 2,
+        "start_time": "21:00",
+        "closed_at": "20:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282202",
+        "players": [
+          "1當銘直",
+          "2鈴木美",
+          "3松井優",
+          "4又多風",
+          "5川原未",
+          "6伊藤木"
+        ],
+        "class_category": "Ｌ級 ガールズ予選２"
+      },
+      {
+        "race_number": 3,
+        "start_time": "21:20",
+        "closed_at": "21:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282203",
+        "players": [
+          "1山本修",
+          "2志水祐",
+          "3瀧野勝",
+          "4中澤央",
+          "5江端隆",
+          "6豊田一",
+          "7坂本昌"
+        ],
+        "class_category": "Ａ級 一般"
+      },
+      {
+        "race_number": 4,
+        "start_time": "21:40",
+        "closed_at": "21:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282204",
+        "players": [
+          "1下岡優",
+          "2田中秀",
+          "3甲斐康",
+          "4藤井準",
+          "5伊藤彰",
+          "6竹内優",
+          "7藤縄洋"
+        ],
+        "class_category": "Ａ級 一般"
+      },
+      {
+        "race_number": 5,
+        "start_time": "22:00",
+        "closed_at": "21:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282205",
+        "players": [
+          "1山口智",
+          "2藤田真",
+          "3植木和",
+          "4栗田万",
+          "5手島志",
+          "6水野悟",
+          "7新井僚"
+        ],
+        "class_category": "Ａ級 選抜"
+      },
+      {
+        "race_number": 6,
+        "start_time": "22:20",
+        "closed_at": "22:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282206",
+        "players": [
+          "1佐々木",
+          "2鈴木庸",
+          "3松田優",
+          "4高橋秀",
+          "5大関祐",
+          "6藤野一",
+          "7鶴岡與"
+        ],
+        "class_category": "Ａ級 選抜"
+      },
+      {
+        "race_number": 7,
+        "start_time": "22:40",
+        "closed_at": "22:35",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282207",
+        "players": [
+          "1真船圭",
+          "2春日勇",
+          "3山下祐",
+          "4猪狩祐",
+          "5平石浩",
+          "6十文字",
+          "7西村剛"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 8,
+        "start_time": "23:00",
+        "closed_at": "22:55",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282208",
+        "players": [
+          "1今井聡",
+          "2岡部伶",
+          "3三澤康",
+          "4八嶋稔",
+          "5山田義",
+          "6山崎悟",
+          "7山口慎"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 9,
+        "start_time": "23:20",
+        "closed_at": "23:15",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512282209",
+        "players": [
+          "1明田春",
+          "2菊地圭",
+          "3筒井裕",
+          "4江連和",
+          "5高本和",
+          "6大谷靖",
+          "7黒滝大"
+        ],
+        "class_category": "Ａ級 準決勝"
+      }
+    ]
+  },
+  {
+    "venue": "松阪",
+    "grade": "FII",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "20:50",
+        "closed_at": "20:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284701",
+        "players": [
+          "1磯村蓮",
+          "2松本琢",
+          "3齋藤和",
+          "4浦山一",
+          "5田島高",
+          "6岡嶋登",
+          "7木村健"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "21:10",
+        "closed_at": "21:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284702",
+        "players": [
+          "1渡邊颯",
+          "2本間慎",
+          "3小泉俊",
+          "4菅原洋",
+          "5石井孝",
+          "6舟元権",
+          "7高木修"
+        ],
+        "class_category": "Ａ級 チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "21:30",
+        "closed_at": "21:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284703",
+        "players": [
+          "1谷澤優",
+          "2山田哲",
+          "3森川剛",
+          "4大薗宏",
+          "5伊藤翼",
+          "6相澤恵",
+          "7早川成"
+        ],
+        "class_category": "Ａ級 チャレンジ準決勝"
+      },
+      {
+        "race_number": 4,
+        "start_time": "21:50",
+        "closed_at": "21:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284704",
+        "players": [
+          "1川村峻",
+          "2加藤駿",
+          "3井上将",
+          "4葉狩伸",
+          "5山元大",
+          "6湯浅弘",
+          "7杉山正"
+        ],
+        "class_category": "Ａ級 チャレンジ準決勝"
+      },
+      {
+        "race_number": 5,
+        "start_time": "22:10",
+        "closed_at": "22:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284705",
+        "players": [
+          "1吉田晏",
+          "2金子浩",
+          "3伊藤大",
+          "4土岐幹",
+          "5佐藤政",
+          "6中野彰"
+        ],
+        "class_category": "Ａ級 特一般"
+      },
+      {
+        "race_number": 6,
+        "start_time": "22:30",
+        "closed_at": "22:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284706",
+        "players": [
+          "1石口慶",
+          "2佐藤明",
+          "3川口聖",
+          "4宇賀神",
+          "5高谷進",
+          "6若林耕",
+          "7眞原健"
+        ],
+        "class_category": "Ａ級 特一般"
+      },
+      {
+        "race_number": 7,
+        "start_time": "22:50",
+        "closed_at": "22:45",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284707",
+        "players": [
+          "1真崎新",
+          "2金子哲",
+          "3愛敬博",
+          "4弓矢輪",
+          "5田中孝",
+          "6橋本紀",
+          "7渡邉直"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 8,
+        "start_time": "23:10",
+        "closed_at": "23:05",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284708",
+        "players": [
+          "1谷口明",
+          "2南儀拓",
+          "3遠藤勝",
+          "4志佐明",
+          "5植草亮",
+          "6泉谷直",
+          "7一守大"
+        ],
+        "class_category": "Ａ級 準決勝"
+      },
+      {
+        "race_number": 9,
+        "start_time": "23:30",
+        "closed_at": "23:25",
+        "url": "https://keirin.netkeiba.com/race/entry/?race_id=202512284709",
+        "players": [
+          "1丸山留",
+          "2高橋雅",
+          "3渡辺航",
+          "4太田剛",
+          "5橋谷成",
+          "6大利航",
+          "7三住博"
+        ],
+        "class_category": "Ａ級 準決勝"
+      }
+    ]
+  }
+]
