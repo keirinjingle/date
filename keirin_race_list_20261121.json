@@ -1,0 +1,974 @@
+[
+  {
+    "venue": "福井",
+    "grade": "F2",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "08:50",
+        "closed_at": "08:45",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1奥井迪",
+          "2赤池七虹",
+          "3佐々木恵理",
+          "4高木佑真",
+          "5田口梓乃",
+          "6田中千尋",
+          "7仲井リコ"
+        ],
+        "class_category": "ガールズ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "09:10",
+        "closed_at": "09:05",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1白井一機",
+          "2沢田勇治",
+          "3竹野行登",
+          "4山田圭二",
+          "5川口秀人",
+          "6赤星俊光",
+          "7大竹慎吾"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "09:31",
+        "closed_at": "09:26",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1小西芳樹",
+          "2川上修平",
+          "3高尾剛文",
+          "4中井修",
+          "5矢田晋",
+          "6近藤直幹",
+          "7武田和也"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 4,
+        "start_time": "09:52",
+        "closed_at": "09:47",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1荒木真慈",
+          "2上原直樹",
+          "3藤井準也",
+          "4白濱蓮",
+          "5永田吏玖",
+          "6竹田慎一",
+          "7瓦田勝也"
+        ],
+        "class_category": "チャレンジ選抜"
+      },
+      {
+        "race_number": 5,
+        "start_time": "10:13",
+        "closed_at": "10:08",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1龍門慎太郎",
+          "2後田康成",
+          "3大中拓磨",
+          "4岡崎和久",
+          "5田上晃也",
+          "6伊藤嘉浩",
+          "7竜門孝宗"
+        ],
+        "class_category": "チャレンジ選抜"
+      },
+      {
+        "race_number": 6,
+        "start_time": "10:34",
+        "closed_at": "10:29",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1高尾貴美歌",
+          "2板根茜弥",
+          "3金田舞夏",
+          "4渡部遥",
+          "5戸邉香奈実",
+          "6塩田日海",
+          "7當銘沙恵美"
+        ],
+        "class_category": "ガールズ決勝"
+      },
+      {
+        "race_number": 7,
+        "start_time": "10:55",
+        "closed_at": "10:50",
+        "url": "https://www.winticket.jp/keirin/fukui/racecard/2026111951?day=3",
+        "players": [
+          "1高佐龍太郎",
+          "2西澤優聖",
+          "3中西勇",
+          "4近藤雄太",
+          "5下山聖斗",
+          "6加藤大輔",
+          "7山村慮太"
+        ],
+        "class_category": "チャレンジ決勝"
+      }
+    ]
+  },
+  {
+    "venue": "豊橋",
+    "grade": "F1",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "10:40",
+        "closed_at": "10:35",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1田中勝仁",
+          "2吉川悟",
+          "3池田浩士",
+          "4井手健",
+          "5藤岡徹也",
+          "6柴田功一郎",
+          "7野津宏介"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "11:03",
+        "closed_at": "10:58",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1岩城佑典",
+          "2松本昂大",
+          "3須賀和彦",
+          "4川田真也",
+          "5土岐幹多",
+          "6北村貴幸",
+          "7小竹洋平"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "11:29",
+        "closed_at": "11:24",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1内村竜也",
+          "2坂上忠克",
+          "3山中秀将",
+          "4城戸崎隆史",
+          "5中西司",
+          "6新井剛央",
+          "7弓矢輪太郎"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "11:55",
+        "closed_at": "11:50",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1西森一稀",
+          "2引地正人",
+          "3國村洋",
+          "4富永益生",
+          "5横内裕人",
+          "6佐々木孝司",
+          "7三浦靖"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "12:21",
+        "closed_at": "12:16",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1相澤政宏",
+          "2小笹隼人",
+          "3藤井優希",
+          "4小埜正義",
+          "5林敬宏",
+          "6表原周",
+          "7三好恵一郎"
+        ],
+        "class_category": "初特選"
+      },
+      {
+        "race_number": 6,
+        "start_time": "12:49",
+        "closed_at": "12:44",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1坂本周輝",
+          "2川上隆義",
+          "3窓場千加頼",
+          "4佐藤雅春",
+          "5中村一将",
+          "6後藤悠",
+          "7小畑勝広"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 7,
+        "start_time": "13:19",
+        "closed_at": "13:14",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1滝本幸正",
+          "2椎木尾拓哉",
+          "3松本憲斗",
+          "4張野幸聖",
+          "5古川尚耶",
+          "6佐川翔吾",
+          "7本郷雄三"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "13:49",
+        "closed_at": "13:44",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1高橋和也",
+          "2吉松直人",
+          "3一戸康宏",
+          "4内田英介",
+          "5吉川起也",
+          "6山根慶太",
+          "7今藤康裕"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "14:19",
+        "closed_at": "14:14",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1和泉尚吾",
+          "2大澤雄大",
+          "3野中龍之介",
+          "4佐藤壮",
+          "5棚橋勉",
+          "6中島竜誠",
+          "7都築巧"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 10,
+        "start_time": "14:49",
+        "closed_at": "14:44",
+        "url": "https://www.winticket.jp/keirin/toyohashi/racecard/2026112145?day=1",
+        "players": [
+          "1松岡貴久",
+          "2大矢崇弘",
+          "3伊藤信",
+          "4篠田幸希",
+          "5岡本総",
+          "6湊聖二",
+          "7立部楓真"
+        ],
+        "class_category": "初特選"
+      }
+    ]
+  },
+  {
+    "venue": "小田原",
+    "grade": "F1",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "10:48",
+        "closed_at": "10:43",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1前田義和",
+          "2須永勝太",
+          "3中井勇介",
+          "4野上竜太",
+          "5寺崎祐樹",
+          "6大関祐也",
+          "7河村章憲"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "11:16",
+        "closed_at": "11:11",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1橋谷成海",
+          "2山崎航",
+          "3門脇翼",
+          "4栗田貴徳",
+          "5三浦生誠",
+          "6齊藤健人",
+          "7黒滝大翔"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "11:42",
+        "closed_at": "11:37",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1赤井学",
+          "2堺文人",
+          "3宗崎世連",
+          "4川崎健次",
+          "5荻原寿嗣",
+          "6堀僚介",
+          "7板崎佑矢"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "12:08",
+        "closed_at": "12:03",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1上田隼",
+          "2奥出良",
+          "3吉成貴博",
+          "4真木寛斗",
+          "5舘泰守",
+          "6天野純平",
+          "7橋本紀彰"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "12:34",
+        "closed_at": "12:29",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1小橋明紀",
+          "2佐藤亙",
+          "3馬場和広",
+          "4久樹克門",
+          "5古賀勝大",
+          "6稲村好将",
+          "7仁藤秀"
+        ],
+        "class_category": "初特選"
+      },
+      {
+        "race_number": 6,
+        "start_time": "13:04",
+        "closed_at": "12:59",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1伊藤裕貴",
+          "2田村大",
+          "3河合佑弥",
+          "4松永将",
+          "5横関裕樹",
+          "6荒川仁",
+          "7阪本和也"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 7,
+        "start_time": "13:34",
+        "closed_at": "13:29",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1野崎将史",
+          "2田中晴基",
+          "3高橋晋也",
+          "4今村麟太郎",
+          "5箱田優樹",
+          "6内山貴裕",
+          "7武田亮"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "14:04",
+        "closed_at": "13:59",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1吉田昌司",
+          "2伊藤成紀",
+          "3田中誠",
+          "4渡口勝成",
+          "5片折亮太",
+          "6福元啓太",
+          "7山本直"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "14:34",
+        "closed_at": "14:29",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1川越勇星",
+          "2小酒大勇",
+          "3橋本壮史",
+          "4丸山留依",
+          "5小川賢人",
+          "6小榑佑弥",
+          "7近藤俊明"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 10,
+        "start_time": "15:05",
+        "closed_at": "15:00",
+        "url": "https://www.winticket.jp/keirin/odawara/racecard/2026112136?day=1",
+        "players": [
+          "1佐藤和也",
+          "2小川真太郎",
+          "3西村光太",
+          "4高橋築",
+          "5中井太祐",
+          "6松坂洋平",
+          "7小原佑太"
+        ],
+        "class_category": "初特選"
+      }
+    ]
+  },
+  {
+    "venue": "小倉",
+    "grade": "G1",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "15:15",
+        "closed_at": "15:10",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1河端朋之",
+          "2松谷秀幸",
+          "3脇本勇希",
+          "4木村隆弘",
+          "5根田空史",
+          "6志村龍己",
+          "7東口善朋",
+          "8森川大輔",
+          "9岩津裕介"
+        ],
+        "class_category": "選抜"
+      },
+      {
+        "race_number": 2,
+        "start_time": "15:41",
+        "closed_at": "15:36",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1川口聖二",
+          "2佐々木豪",
+          "3大石剣士",
+          "4菅原大也",
+          "5柏野智典",
+          "6安彦統賀",
+          "7上田国広",
+          "8柿澤大貴",
+          "9岩井芯"
+        ],
+        "class_category": "選抜"
+      },
+      {
+        "race_number": 3,
+        "start_time": "16:07",
+        "closed_at": "16:02",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1岩谷拓磨",
+          "2中釜章成",
+          "3杉浦侑吾",
+          "4内藤宣彦",
+          "5鈴木竜士",
+          "6岡本大嗣",
+          "7佐藤一伸",
+          "8角令央奈",
+          "9三谷将太"
+        ],
+        "class_category": "選抜"
+      },
+      {
+        "race_number": 4,
+        "start_time": "16:33",
+        "closed_at": "16:28",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1金子幸央",
+          "2阿部将大",
+          "3岩本俊介",
+          "4志智俊夫",
+          "5塚本大樹",
+          "6海老根恵太",
+          "7佐藤礼文",
+          "8纐纈洸翔",
+          "9青野将大"
+        ],
+        "class_category": "選抜"
+      },
+      {
+        "race_number": 5,
+        "start_time": "16:59",
+        "closed_at": "16:54",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1嶋津拓弥",
+          "2浅井康太",
+          "3五日市誠",
+          "4笠松信幸",
+          "5長島大介",
+          "6北井佑季",
+          "7志田龍星",
+          "8飯野祐太",
+          "9小林泰正"
+        ],
+        "class_category": "選抜"
+      },
+      {
+        "race_number": 6,
+        "start_time": "17:28",
+        "closed_at": "17:23",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1菊池岳仁",
+          "2西田優大",
+          "3阿部力也",
+          "4佐藤友和",
+          "5森田優弥",
+          "6宮本隼輔",
+          "7中石湊",
+          "8恩田淳平",
+          "9桑原大志"
+        ],
+        "class_category": "二次予選Ｂ"
+      },
+      {
+        "race_number": 7,
+        "start_time": "17:57",
+        "closed_at": "17:52",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1三谷竜生",
+          "2新山響平",
+          "3町田太我",
+          "4小倉竜二",
+          "5守澤太志",
+          "6上野優太",
+          "7山田久徳",
+          "8山崎歩夢",
+          "9村上博幸"
+        ],
+        "class_category": "二次予選Ｂ"
+      },
+      {
+        "race_number": 8,
+        "start_time": "18:26",
+        "closed_at": "18:21",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1小川勇介",
+          "2渡部幸訓",
+          "3簗田一輝",
+          "4成田和也",
+          "5嘉永泰斗",
+          "6松井宏佑",
+          "7中野慎詞",
+          "8園田匠",
+          "9渡邉雅也"
+        ],
+        "class_category": "二次予選Ｂ"
+      },
+      {
+        "race_number": 9,
+        "start_time": "18:56",
+        "closed_at": "18:51",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1寺崎浩平",
+          "2菅田壱道",
+          "3取鳥雄吾",
+          "4和田圭",
+          "5山口拳矢",
+          "6宿口陽一",
+          "7南修二",
+          "8橋本強",
+          "9鈴木玄人"
+        ],
+        "class_category": "二次予選Ａ"
+      },
+      {
+        "race_number": 10,
+        "start_time": "19:26",
+        "closed_at": "19:21",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1阿部拓真",
+          "2脇本雄太",
+          "3犬伏湧也",
+          "4村田雅一",
+          "5小原太樹",
+          "6芦澤大輔",
+          "7松本貴治",
+          "8松崎広太",
+          "9新田祐大"
+        ],
+        "class_category": "二次予選Ａ"
+      },
+      {
+        "race_number": 11,
+        "start_time": "19:56",
+        "closed_at": "19:51",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1山崎賢人",
+          "2古性優作",
+          "3佐々木悠葵",
+          "4和田真久留",
+          "5山田庸平",
+          "6北津留翼",
+          "7武藤龍生",
+          "8稲川翔",
+          "9和田健太郎"
+        ],
+        "class_category": "二次予選Ａ"
+      },
+      {
+        "race_number": 12,
+        "start_time": "20:30",
+        "closed_at": "20:25",
+        "url": "https://www.winticket.jp/keirin/kokura/racecard/2026111881?day=4",
+        "players": [
+          "1郡司浩平",
+          "2松浦悠士",
+          "3眞杉匠",
+          "4荒井崇博",
+          "5石原颯",
+          "6吉澤純平",
+          "7清水裕友",
+          "8坂井洋",
+          "9深谷知広"
+        ],
+        "class_category": "ダイヤモンドレース"
+      }
+    ]
+  },
+  {
+    "venue": "名古屋",
+    "grade": "F2",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "20:40",
+        "closed_at": "20:35",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1小川大地",
+          "2井坂泰誓",
+          "3眞原健一",
+          "4山崎寛巳",
+          "5柴田昌樹",
+          "6長谷川辰徳",
+          "7梶山大輔"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "21:00",
+        "closed_at": "20:55",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1大本隆也",
+          "2水野悟志",
+          "3池上孝之",
+          "4齋藤和也",
+          "5加美山隆行",
+          "6中野彰人",
+          "7清水広幸"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "21:20",
+        "closed_at": "21:15",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1北村翔太",
+          "2本間慎吾",
+          "3児玉東次郎",
+          "4花田雄飛",
+          "5邊見斎",
+          "6吉川誠",
+          "7志村正洋"
+        ],
+        "class_category": "チャレンジ準決勝"
+      },
+      {
+        "race_number": 4,
+        "start_time": "21:40",
+        "closed_at": "21:35",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1高橋奏多",
+          "2織茂雄一郎",
+          "3藤野竜也",
+          "4及川裕奨",
+          "5藤田晃英",
+          "6三浦綾",
+          "7岡田大門"
+        ],
+        "class_category": "チャレンジ準決勝"
+      },
+      {
+        "race_number": 5,
+        "start_time": "22:00",
+        "closed_at": "21:55",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1大塚英伸",
+          "2伊藤歩登",
+          "3根藤浩二",
+          "4善利裕生",
+          "5松根真",
+          "6伊藤一貴",
+          "7亀谷隆一"
+        ],
+        "class_category": "特一般"
+      },
+      {
+        "race_number": 6,
+        "start_time": "22:20",
+        "closed_at": "22:15",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1高橋陽介",
+          "2根本雄紀",
+          "3梅田加津也",
+          "4岩原健馬",
+          "5佐藤明",
+          "6吉田夢希斗",
+          "7山口茂"
+        ],
+        "class_category": "特一般"
+      },
+      {
+        "race_number": 7,
+        "start_time": "22:40",
+        "closed_at": "22:35",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1中村弘之輔",
+          "2小嶋敬二",
+          "3保科千春",
+          "4長谷川飛向",
+          "5伊藤温希",
+          "6大川栄二",
+          "7小川将人"
+        ],
+        "class_category": "準決勝"
+      },
+      {
+        "race_number": 8,
+        "start_time": "23:00",
+        "closed_at": "22:55",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1内山雅貴",
+          "2川口直人",
+          "3山本隼人",
+          "4丹波孝佑",
+          "5篠塚光一",
+          "6小浦凪",
+          "7有賀高士"
+        ],
+        "class_category": "準決勝"
+      },
+      {
+        "race_number": 9,
+        "start_time": "23:20",
+        "closed_at": "23:15",
+        "url": "https://www.winticket.jp/keirin/nagoya/racecard/2026112042?day=2",
+        "players": [
+          "1片桐善也",
+          "2伊藤京介",
+          "3西村豊",
+          "4森田康嗣",
+          "5宮司周郎",
+          "6田中俊充",
+          "7北野良栄"
+        ],
+        "class_category": "準決勝"
+      }
+    ]
+  },
+  {
+    "venue": "前橋",
+    "grade": "F2",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "20:50",
+        "closed_at": "20:45",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1坂本英一",
+          "2齋藤仁",
+          "3楠本政明",
+          "4倉岡慎太郎",
+          "5菅原洋輔",
+          "6岡田哲夫",
+          "7井山和裕"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 2,
+        "start_time": "21:10",
+        "closed_at": "21:05",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1作田悦章",
+          "2鶴健志",
+          "3中野良",
+          "4秋永昂人",
+          "5森佑樹",
+          "6長崎達也",
+          "7山内大作"
+        ],
+        "class_category": "チャレンジ一般"
+      },
+      {
+        "race_number": 3,
+        "start_time": "21:30",
+        "closed_at": "21:25",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1滿田光紀",
+          "2勝沼遼",
+          "3山本恵太郎",
+          "4佐藤和典",
+          "5田中弘章",
+          "6吉田昌弘",
+          "7和泉田喜一"
+        ],
+        "class_category": "チャレンジ準決勝"
+      },
+      {
+        "race_number": 4,
+        "start_time": "21:50",
+        "closed_at": "21:45",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1阿部凪汰",
+          "2十文字悠真",
+          "3山崎功也",
+          "4三木翔太",
+          "5黒崎直行",
+          "6高嶋一朗",
+          "7右近陸人"
+        ],
+        "class_category": "チャレンジ準決勝"
+      },
+      {
+        "race_number": 5,
+        "start_time": "22:10",
+        "closed_at": "22:05",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1石坂永伍",
+          "2竹内優也",
+          "3橋本勝弘",
+          "4河上陽一",
+          "5山口幸太郎",
+          "6小室貴広",
+          "7阿久津浩之"
+        ],
+        "class_category": "特一般"
+      },
+      {
+        "race_number": 6,
+        "start_time": "22:30",
+        "closed_at": "22:25",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1中島淳",
+          "2甲斐康昭",
+          "3隅直幸",
+          "4武田良太",
+          "5阿部英光",
+          "6池邉聖",
+          "7田中孝法"
+        ],
+        "class_category": "特一般"
+      },
+      {
+        "race_number": 7,
+        "start_time": "22:50",
+        "closed_at": "22:45",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1前川大輔",
+          "2二藤元太",
+          "3船山真生",
+          "4片山智晴",
+          "5荻野哲",
+          "6池田伍功羽",
+          "7梶山裕次郎"
+        ],
+        "class_category": "準決勝"
+      },
+      {
+        "race_number": 8,
+        "start_time": "23:10",
+        "closed_at": "23:05",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1松澤敬輔",
+          "2小笠原一真",
+          "3山田雄大",
+          "4名川豊",
+          "5小沼良",
+          "6阿部兼士",
+          "7白井優太朗"
+        ],
+        "class_category": "準決勝"
+      },
+      {
+        "race_number": 9,
+        "start_time": "23:30",
+        "closed_at": "23:25",
+        "url": "https://www.winticket.jp/keirin/maebashi/racecard/2026112022?day=2",
+        "players": [
+          "1藤田祐大",
+          "2野口大誠",
+          "3中田拓也",
+          "4吉田航",
+          "5田村真広",
+          "6松尾大樹",
+          "7守安政雄"
+        ],
+        "class_category": "準決勝"
+      }
+    ]
+  }
+]
